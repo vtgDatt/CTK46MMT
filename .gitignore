@@ -4,3 +4,6 @@ git_attributes
 **/exercise
 **/remote
 .DS_Store
+
+# Ignore nested git repos created by katas
+**/.git/
