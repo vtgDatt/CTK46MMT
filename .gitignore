@@ -7,3 +7,6 @@ git_attributes
 
 # Ignore nested git repos created by katas
 **/.git/
+
+# Lab02 - docker compose mysql data (do not commit)
+lab02/lab02-5-compose/data/
